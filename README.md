@@ -236,32 +236,6 @@ class AsrarMulla:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PRINCE-CODER679&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE-CODER679&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=PRINCE-CODER679&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PRINCE-CODER679/PRINCE-CODER679/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 🌐 Find Me
 
 <div align="center">
