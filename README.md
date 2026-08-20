@@ -240,13 +240,13 @@ class AsrarMulla:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PRINCE-CODER679&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PRINCE-CODER679&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE-CODER679&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE-CODER679&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCE-CODER679&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=PRINCE-CODER679&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -256,7 +256,7 @@ class AsrarMulla:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PRINCE-CODER679/PRINCE-CODER679/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/PRINCE-CODER679/PRINCE-CODER679/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -308,3 +308,4 @@ class AsrarMulla:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
+
