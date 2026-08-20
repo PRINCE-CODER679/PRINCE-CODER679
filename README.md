@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ASRAR%20MULLA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:17143A,70:30205C,100:6D28D9&height=245&section=header&text=ASRAR%20MULLA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=57&descSize=19&animation=twinkling&stroke=8B5CF6&strokeWidth=1" width="100%"/>
 
 <br>
 
@@ -282,4 +282,5 @@ class AsrarMulla:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
+
 
