@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Custom animated developer banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,65:312E81,100:7C3AED&height=265&section=header&text=ASRAR%20MULLA&fontSize=62&fontColor=FFFFFF&fontAlignY=37&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=56&descSize=20&animation=fadeIn&stroke=C4B5FD&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080B18,45:1E1B4B,75:4C1D95,100:7C3AED&height=300&section=header&text=HI%2C%20I'M%20ASRAR%20MULLA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=60&descSize=20&animation=twinkling&stroke=A78BFA&strokeWidth=1" width="100%" alt="Asrar Mulla animated GitHub banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=%3C+code%3E+%E2%86%92+build+%E2%86%92+debug+%E2%86%92+deploy+%E2%86%92+repeat+%2F%3E" alt="Developer animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=%3C+developer.mode%3E+BUILDING...+%2F%3E;%E2%9A%A1+Code+%7C+Learn+%7C+Create+%7C+Deploy;%F0%9F%A4%96+Turning+ideas+into+AI-powered+products;%E2%98%95+Powered+by+curiosity+and+late-night+coding" alt="Developer animation" />
 
 <br>
 
