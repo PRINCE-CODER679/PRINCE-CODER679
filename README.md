@@ -2,7 +2,9 @@
 
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:17143A,70:30205C,100:6D28D9&height=245&section=header&text=ASRAR%20MULLA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=57&descSize=19&animation=twinkling&stroke=8B5CF6&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,65:312E81,100:7C3AED&height=265&section=header&text=ASRAR%20MULLA&fontSize=62&fontColor=FFFFFF&fontAlignY=37&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=56&descSize=20&animation=fadeIn&stroke=C4B5FD&strokeWidth=1" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=%3C+code%3E+%E2%86%92+build+%E2%86%92+debug+%E2%86%92+deploy+%E2%86%92+repeat+%2F%3E" alt="Developer animation" />
 
 <br>
 
@@ -282,5 +284,3 @@ class AsrarMulla:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
-
