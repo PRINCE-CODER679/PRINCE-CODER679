@@ -1,31 +1,22 @@
 <div align="center">
 
-<!-- Dark terminal-style developer banner with twinkling stars -->
+<!-- Dark animated developer hero -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,45:0B1020,75:111827,100:1E1B4B&height=250&section=header&text=HI%2C%20I'M%20ASRAR%20MULLA&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=61&descSize=18&fontFamily=JetBrains%20Mono&animation=twinkling&stroke=7C3AED&strokeWidth=1" width="100%" alt="Dark Asrar Mulla developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B1120,70:17103A,100:312E81&height=220&section=header&text=HI%2C%20I'M%20ASRAR%20MULLA&fontSize=50&fontColor=F8FAFC&fontAlignY=39&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=59&descSize=17&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Hi, I'm Asrar Mulla"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1400&color=A78BFA&background=05070D00&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+AI+%26+Full+Stack+Developer;%24+status+%E2%86%92+building+%26+learning;%24+focus+%E2%86%92+AI+%7C+Backend+%7C+Data+%7C+Web" alt="Terminal typing animation"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1000&color=7C3AED&background=05070D00&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+products...;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Deploy" alt="Secondary typing animation"/>
+<!-- Animated coding / developer scene -->
 
-<br><br>
-
-<a href="https://github.com/PRINCE-CODER679">
-<img src="https://img.shields.io/badge/GitHub-PRINCE--CODER679-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/asrar-mulla-25a47b331">
-<img src="https://img.shields.io/badge/LinkedIn-Asrar%20Mulla-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://asrarin.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-asrarin.vercel.app-7F5AF0?style=for-the-badge&logo=vercel"/>
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding animation"/>
 
 <br><br>
 
-<!-- Animated visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=PRINCE-CODER679&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+AI+%26+Full+Stack+Developer;%24+study+%E2%86%92+code+%E2%86%92+debug+%E2%86%92+repeat;%24+building+%E2%86%92+real+world+AI-powered+applications;%24+status+%E2%86%92+always+learning+%F0%9F%9A%80" alt="Developer terminal animation"/>
+
+<br><br>
+
+<a href="https://github.com/PRINCE-CODER679"><img src="https://img.shields.io/badge/GitHub-PRINCE--CODER679-0B0F19?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/asrar-mulla-25a47b331"><img src="https://img.shields.io/badge/LinkedIn-Asrar%20Mulla-0B0F19?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a> <a href="https://asrarin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-asrarin.vercel.app-0B0F19?style=for-the-badge&logo=vercel&logoColor=A78BFA"/></a>
 
 </div>
 
@@ -111,12 +102,6 @@ class AsrarMulla:
 # 🎬 The Developer Life
 
 <div align="center">
-
-<!-- Coding Animation -->
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<br><br>
 
 ```text
           ☕
@@ -255,6 +240,18 @@ class AsrarMulla:
 
 ---
 
+<div align="center">
+
+### `⌨️ Code. 📚 Learn. 🤖 Build. 🚀 Deploy.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:17103A,100:020617&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
+
+---
+
 # 💭 Developer Mindset
 
 <div align="center">
@@ -281,5 +278,3 @@ class AsrarMulla:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
-
