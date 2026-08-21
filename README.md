@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- Dark terminal-style developer banner -->
+<!-- Dark terminal-style developer banner with twinkling stars -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,45:0B1020,75:111827,100:1E1B4B&height=250&section=header&text=HI%2C%20I'M%20ASRAR%20MULLA&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=61&descSize=18&fontFamily=JetBrains%20Mono&animation=fadeIn&stroke=7C3AED&strokeWidth=1" width="100%" alt="Dark Asrar Mulla developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,45:0B1020,75:111827,100:1E1B4B&height=250&section=header&text=HI%2C%20I'M%20ASRAR%20MULLA&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=61&descSize=18&fontFamily=JetBrains%20Mono&animation=twinkling&stroke=7C3AED&strokeWidth=1" width="100%" alt="Dark Asrar Mulla developer banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1400&color=A78BFA&background=05070D00&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+AI+%26+Full+Stack+Developer;%24+status+%E2%86%92+building+%26+learning;%24+focus+%E2%86%92+AI+%7C+Backend+%7C+Data+%7C+Web" alt="Terminal typing animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1000&color=7C3AED&background=05070D00&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+products...;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Deploy" alt="Secondary typing animation"/>
 
 <br><br>
 
@@ -19,6 +21,11 @@
 <a href="https://asrarin.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-asrarin.vercel.app-7F5AF0?style=for-the-badge&logo=vercel"/>
 </a>
+
+<br><br>
+
+<!-- Animated visitor counter -->
+<img src="https://komarev.com/ghpvc/?username=PRINCE-CODER679&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -274,4 +281,5 @@ class AsrarMulla:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
+
 
