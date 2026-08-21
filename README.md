@@ -1,20 +1,10 @@
 <div align="center">
 
-<!-- Custom animated developer banner -->
+<!-- Dark terminal-style developer banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080B18,45:1E1B4B,75:4C1D95,100:7C3AED&height=300&section=header&text=HI%2C%20I'M%20ASRAR%20MULLA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=60&descSize=20&animation=twinkling&stroke=A78BFA&strokeWidth=1" width="100%" alt="Asrar Mulla animated GitHub banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,45:0B1020,75:111827,100:1E1B4B&height=250&section=header&text=HI%2C%20I'M%20ASRAR%20MULLA&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=61&descSize=18&fontFamily=JetBrains%20Mono&animation=fadeIn&stroke=7C3AED&strokeWidth=1" width="100%" alt="Dark Asrar Mulla developer banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=%3C+developer.mode%3E+BUILDING...+%2F%3E;%E2%9A%A1+Code+%7C+Learn+%7C+Create+%7C+Deploy;%F0%9F%A4%96+Turning+ideas+into+AI-powered+products;%E2%98%95+Powered+by+curiosity+and+late-night+coding" alt="Developer animation" />
-
-<br>
-
-<!-- Typing Animation -->
-
-<a href="https://github.com/PRINCE-CODER679">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Asrar+Mulla+%F0%9F%91%8B;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;I+build+things+that+solve+real+problems+%F0%9F%9A%80;Currently+learning+FastAPI+%7C+Data+Science+%7C+AI;Turning+ideas+into+deployed+products+%E2%9A%A1" alt="Typing SVG" />
-
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1400&color=A78BFA&background=05070D00&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+AI+%26+Full+Stack+Developer;%24+status+%E2%86%92+building+%26+learning;%24+focus+%E2%86%92+AI+%7C+Backend+%7C+Data+%7C+Web" alt="Terminal typing animation"/>
 
 <br><br>
 
@@ -284,3 +274,4 @@ class AsrarMulla:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
+
